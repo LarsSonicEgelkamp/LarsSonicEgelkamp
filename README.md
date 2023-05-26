@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @LarsSonicEgelkamp
 - 👀 I’m interested in football
 - 🌱 I’m currently learning cobol
+-  My actual programming languages are java, angular, c#
 
 
 <!---
